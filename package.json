@@ -1,0 +1,16 @@
+{
+  "name": "7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
